@@ -1,0 +1,60 @@
+img{
+    width: 100%;     
+     }
+     .addtocart{
+        width: 220px;
+        height: 40px;
+      border-radius: 60px;
+      border: 2px;
+     }
+     .card{
+        margin-left: 120px;
+        margin-top: 60px;
+        border: 2px solid;
+        
+     }
+#card-div{
+    display: flex;
+    border-radius: 20px;
+   
+    
+}
+.card{
+    transition: all 1.10s;
+    border: none;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card-img-top{
+    border-radius: 20px;
+}
+ins{
+    text-decoration: none;
+    color: red
+
+}
+i{
+    color:
+    
+}
+.bx bxs-star{
+    color: black;
+}
+    
+
+
+
+
+.buttoncart{
+    height: 40px;
+    width: 200px;
+    border-radius: 80px;
+    font-weight: 700px;
+    color: blue;
+    background-color: brown;
+}
+
+
+
+     
